@@ -16,9 +16,9 @@ In addition, Porthole provides command-line access to Dataplicity.  You can use 
 
 Documentation for the Dataplicity Porthole command-line is [available here](http://docs.dataplicity.com/v1.0/docs/command-line-interface).
 
-**Click on the icon below to download:**
+## Getting started
 
-[![Download icon](https://image.ibb.co/ky1EvG/Sidebar_Downloads_icon.png)](https://github.com/wildfoundry/dataplicity-porthole-releases/raw/master/1.28.22.4/DataplicityPortholeSetup.msi)
+[![Download icon](download_icon_small_v4.png "Download now")](https://github.com/wildfoundry/dataplicity-porthole-releases/raw/master/1.28.22.4/DataplicityPortholeSetup.msi)
 
 ## More information
 For more information, visit https://www.dataplicity.com/.
