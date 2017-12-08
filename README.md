@@ -18,7 +18,7 @@ Documentation for the Dataplicity Porthole command-line is [available here](http
 
 **Click on the icon below to download:**
 
-[![Download icon](https://image.ibb.co/ky1EvG/Sidebar_Downloads_icon.png)](https://github.com/wildfoundry/dataplicity-porthole-releases/raw/master/1.23.22.4/DataplicityPortholeSetup.msi)
+[![Download icon](/docs/download_icon.png?raw=true)](https://github.com/wildfoundry/dataplicity-porthole-releases/raw/master/1.23.22.4/DataplicityPortholeSetup.msi)
 
 ## More information
 For more information, visit https://www.dataplicity.com/.
