@@ -1,9 +1,6 @@
 # Dataplicity Porthole
 Dataplicity Porthole lets you forward any TCP port from a Dataplicity-enabled device to your local Windows workstation or Windows Server.  As a Windows Service, this system is suitable for 24x7 production use.
 
-![winscp](https://image.ibb.co/gbyVkG/5d95061_winscp.png)
-
-
 ## Things you can do with Porthole
 - [File transfer](http://docs.dataplicity.com/docs/file-transfer-via-porthole)
 - [Remote Desktop/VNC](http://docs.dataplicity.com/docs/remote-desktop-via-porthole)
