@@ -15,7 +15,7 @@ Documentation for the Dataplicity Porthole command-line is [available here](http
 
 ## Download for Windows 7, Windows 10 and Windows Server
 
-[Porthole installer (MSI for Windows)](https://github.com/wildfoundry/dataplicity-porthole-releases/releases/download/1.55.25.7/DataplicityPortholeSetup.msi)
+[Porthole installer (MSI for Windows)](https://github.com/wildfoundry/dataplicity-porthole-releases/releases/download/1.55.26.7/DataplicityPortholeSetup.msi)
 
 ## More information
 For more information, visit https://www.dataplicity.com/.
